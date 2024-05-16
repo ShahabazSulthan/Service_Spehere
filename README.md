@@ -54,8 +54,7 @@ Service Sphere is a comprehensive web application designed to streamline service
 ## Contributing:
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements, bug fixes, or new features.
 
-## License:
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+
 
 ---
 
